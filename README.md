@@ -6,7 +6,7 @@
 
 </head>
 <body>
-  <h1>navigation-architecture</h1>
+  <h1>springboot</h1>
   <div>
     <h3>開發環境 :</h3>
     <p>eclipse</p>
@@ -26,6 +26,7 @@
     <h3>核心功能 :</h3>
     <ul>
       <li>從單一資料表針對特定欄位進行計算</li>
+      <li>實體類別CRUD動作</li>
     </ul>
   </div>
   <div>
