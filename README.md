@@ -16,9 +16,9 @@
     <ul>
       <li>利用 Spring Initializr 建立專案</li>
       <li>主程式類別內使用紀錄器</li>
-      <li>安裝JPA函式庫與 H2資料庫</li>
+      <li>安裝JPA函式庫與H2資料庫</li>
       <li>撰寫實體類別(Entity Class)建置資料表</li>
-      <li>為實體類別新增 CRUD動作</li>
+      <li>為實體類別新增CRUD動作</li>
       <li>建立一對多關係</li>
     </ul>
   </div>
@@ -26,7 +26,7 @@
     <h3>核心功能 :</h3>
     <ul>
       <li>從單一資料表針對特定欄位進行計算</li>
-      <li>實體類別 CRUD動作</li>
+      <li>實體類別CRUD動作</li>
     </ul>
   </div>
   <div>
