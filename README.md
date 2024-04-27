@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/Ivor0923/springboot/assets/167058312/d46fd813-87b1-477b-9eb2-f89903ef5dd3)<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -20,6 +20,8 @@
       <li>撰寫實體類別(Entity Class)建置資料表</li>
       <li>為實體類別新增CRUD動作</li>
       <li>建立一對多關係</li>
+      <li>使用Java Persistence Query Language(JPQL)</li>
+      <li>寫Java Persistence API(JPA)</li>
     </ul>
   </div>
   <div>
