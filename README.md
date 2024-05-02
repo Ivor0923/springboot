@@ -3,7 +3,7 @@
   <h1>springboot</h1>
   <div>
     <h3>開發環境 :</h3>
-    <p>eclipse</p>
+    <p>eclipse gradle</p>
   </div>
   <div>
     <h3>使用技術 :</h3>
