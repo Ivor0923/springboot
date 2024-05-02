@@ -1,9 +1,3 @@
-![image](https://github.com/Ivor0923/springboot/assets/167058312/d46fd813-87b1-477b-9eb2-f89903ef5dd3)<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
   <h1>springboot</h1>
